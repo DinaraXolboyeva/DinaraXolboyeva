@@ -25,16 +25,16 @@ Sizning loyihalaringiz va texnologiyalaringiz haqida batafsil ma'lumot olish uch
 
 ## 📫 Contact Me
 <div id="badges">
-  <a href="https://t.me/haverts004">
+  <a href="">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/asilbekahmedov707?igsh=MTJ0em9ja2Yzd25vdA">
+  <a href="">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL">
+  <a href="">
       <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
   </a>
-  <a href="https://www.youtube.com/@SporSaga_TV">
+  <a href="">
     <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
   </a>
  <br>
